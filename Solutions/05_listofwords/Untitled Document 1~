@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <stdlib.h>
+ 
+int main(){
+
+   const char *mes[] = {
+      "Enero",
+      "Febrero",
+      "Marzo", 
+      "Abril", 
+      "Mayo", 
+      "Junio", 
+      "Julio", 
+      "Agosto", 
+      "Septiembre", 
+      "Octubre", 
+      "Noviembre", 
+      "Diciembre"
+      };
+      
+ return EXIT_SUCCESS;     
+}
