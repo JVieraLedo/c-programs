@@ -1,14 +1,14 @@
 
-#include<stdio.h>
-#include<stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
 
 
 void print(const char *letra){
 
-    if (*letra == "\0")
+    if (*letra == '\0')
 	return;
-    printf("%c", *letra);
-    prntf(letra + 1);
+    printf(" %c", *letra);
+    printf(letra + 1);
 }
 
 
