@@ -1,4 +1,3 @@
-//imprimir la frase al reves
 #include <stdio.h>
 #include <stdlib.h>
 
